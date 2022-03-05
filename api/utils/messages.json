@@ -1,0 +1,23 @@
+{
+  "EN": {
+    "English": "English",
+    "SUCCESS": "Success",
+    "ERROR": "Error",
+    "DB_ERROR": "Database Error",
+    "INTERNAL_SERVER_ERROR": "Internal server error",
+    "SOMETHING_WENT_WRONG": "Something went wrong",
+    "PARAM_REQUIRED": "'PARAM' is requried.",
+    "TOKEN_EXPIRED": "Token Expired",
+    "TOKEN_MALFORMED": "Token Malformed",
+    "SIGNUP_SUCCESS":"Signup successfully",
+    "SIGNIN_SUCCESS":"SignIn Successfully",
+    "USER_BLOCKED":"User Blocked",
+    "INVALID_APP_VERSION": "Invalid App Version",
+    "INCORRECT_PASSWORD": "Wrong password, Please Enter correct password",
+    "LOGOUT_SUCCESS": "Your account logout successfully",
+    "ACCOUNT_EXPIRED": "Account not logged In",
+    "NOT_ADMIN": "This not admin",
+    "USER_WITH_USERNAME_ALREADY_EXISTS" : "This user name is already registered. Please enter a different userName."
+  }
+}
+  
